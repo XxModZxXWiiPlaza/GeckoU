@@ -1,12 +1,12 @@
 # GeckoU
 Gecko U is a .NET Framwork libray for [BullyWiiPlaza's TCP Gecko](https://github.com/BullyWiiPlaza/tcpgecko)
 
-#Installation
+# Installation
 
 The Installation for this is very simple for this. All you will need to do is drag and drop this into your project and you will be able to reference this in your class. 
 
 
-#Examples  
+# Examples  
 Same code that is used to show off [SharpGck](https://github.com/kzpns/ShpGck) ported to GeckoU
 ```c-sharp
 using System;
