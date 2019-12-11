@@ -788,18 +788,6 @@ namespace com.wiiplaza.geckou
 
             return versionHash;
         }
-
-        public string ReadAccountName(uint address)
-        {
-            CallFunction(0x03863C8C, address);
-            return PeekString(28, address);
-        }
-
-        public string ReadCountryCode(uint address)
-        {
-            CallFunction(0x0384E79C, address);
-            return PeekString(4, address);
-        }
         #endregion Commands
 
         #region misc
