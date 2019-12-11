@@ -47,7 +47,7 @@ namespace Gecko_U_Show_Off
 - ```SlothWiiPlaza```: Development 
 - ```XxModZxXWiiPlaza```: Development
 - ```BullyWiiPlaza```: Development
-Can't remember who all worked on/where Sloth got the orignal code from if you find your code in here people let me know and I will add you to the credits
+- Can't remember who all worked on/where Sloth got the orignal code from if you find your code in here people let me know and I will add you to the credits
 
 # Notes
 
