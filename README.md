@@ -53,5 +53,5 @@ Can't remember who all worked on/where Sloth got the orignal code from if you fi
 
 If you are to use this TCP Gecko library in your project all people above must be credited or WiiPlaza(or WiiPlaza Inc.) if using without credit you are subject to have your software removed from where it is hosted. You are to use this and credit all people involved in development. 
 
-*WiiPlaza Inc. Copright 2019 *
+*WiiPlaza Inc. Copright 2019*
         
