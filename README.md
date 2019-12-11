@@ -1,5 +1,5 @@
 # GeckoU
-Gecko U is a .NET Framwork libray for [BullyWiiPlaza's TCP Gecko](https://github.com/BullyWiiPlaza/tcpgecko)
+Gecko U is a .NET Framwork library for [BullyWiiPlaza's TCP Gecko](https://github.com/BullyWiiPlaza/tcpgecko)
 
 # Installation
 
@@ -35,11 +35,23 @@ namespace Gecko_U_Show_Off
                 GeckoU.WriteUInt(0x1004F71C, 0); //Home Button Menu Anywhere [Macopride64])
                 Console.WriteLine("Sent!");
                 Console.WriteLine("You can use the Home Menu in anywhere.");
-
+                GeckoU.GUC.Disconnect();
                 Console.ReadKey(false);
         }
     }
 }
 ```
-        
+
+# Credits 
+
+```SlothWiiPlaza```: Development 
+```XxModZxXWiiPlaza```: Development
+```BullyWiiPlaza```: Development
+Can't remember who all worked on/where Sloth got the orignal code from if you find your code in here people let me know and I will add you to the credits
+
+# Notes
+
+If you are to use this TCP Gecko library in your project all people above must be credited or WiiPlaza(or WiiPlaza Inc.) if using without credit you are subject to have your software removed from where it is hosted. You are to use this and credit all people involved in development. 
+
+*WiiPlaza Inc. Copright 2019 *
         
