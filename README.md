@@ -52,6 +52,6 @@ namespace Gecko_U_Show_Off
 # Notes
 
 If you are to use this TCP Gecko library in your project all people above must be credited or WiiPlaza(or WiiPlaza Inc.) if using without credit you are subject to have your software removed from where it is hosted. You are to use this and credit all people involved in development. 
-
+You also can not edit the code without permission as well 
 *WiiPlaza Inc. Copright 2019*
         
