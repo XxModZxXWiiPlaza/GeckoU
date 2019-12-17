@@ -12,6 +12,8 @@ namespace com.wiiplaza.geckou
         /* Todo
          * Clean up some stuff to make the code look "nice"
          * Stuff i guess
+         * Find a girlfriend
+         * Get a life
          */
         #endregion todo
 
