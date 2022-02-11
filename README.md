@@ -57,5 +57,5 @@ If you are to use this TCP Gecko library in your project all people above must b
 You also can not edit the code without permission as well 
 
 
-*WiiPlaza Inc. Copright 2019*
+*WiiPlaza Inc. Copright 2022*
         
